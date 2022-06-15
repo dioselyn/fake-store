@@ -52,4 +52,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Made with Love By 
 
-[http://portfolio.developdctech.com](Dioselyn Colina)
+<a href="https://portfolio.developdctech.com/">Dioselyn Colina</a>
