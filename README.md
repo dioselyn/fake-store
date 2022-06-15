@@ -1,8 +1,24 @@
-# Getting Started with Create React App
+# Fake Store
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Frontend API Fake Store https://fakestoreapi.com/
 
-## Available Scripts
+## Tecnologies 
+
+ - ReactJS
+ - Sass
+
+## Requirements
+
+ - Node 
+ - npm 
+ - Browser
+
+## Download or Clone
+
+### `git clone https://github.com/dioselyn/fake-store.git`
+
+
+## Instalation
 
 In the project directory, you can run:
 
@@ -64,3 +80,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Made with Love By 
+
+Dioselyn Colina
