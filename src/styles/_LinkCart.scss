@@ -1,0 +1,25 @@
+@import "./_vars";
+
+.link-cart__content {
+    display: flex;
+    place-items: center;
+    position: relative;
+}
+
+.link-cart__icon {
+    display: flex;
+    color: $bg-color-2;
+    font-size: $g;
+    position: relative;
+}
+
+.link-cart__span {
+    padding: 2px 5px;
+    top: 8px;
+    right: 48px;
+    border-radius: 50%;
+    background-color: $bg-color-2;
+    position: absolute;
+    font-size: 8px;
+    font-weight: $semi-bold;
+}

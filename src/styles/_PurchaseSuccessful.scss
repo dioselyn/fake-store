@@ -1,0 +1,14 @@
+@import "./vars";
+
+.purchase-successful__container {
+    width: 30vw;
+    padding: 48px;
+    position: relative;
+    background-color: $bg-color-2;
+}
+
+.purchase__icon {
+    display: flex;
+    margin: 12px auto;
+    font-size: 60px;
+}

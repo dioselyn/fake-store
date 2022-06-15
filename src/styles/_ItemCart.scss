@@ -1,0 +1,20 @@
+@import "./vars";
+
+.cart__product {
+    display: grid;
+    margin: 8px 0 18px 0;
+    grid-template-columns: auto 260px 1fr;
+    align-items: center;
+}
+
+.cart__image {
+    display: flex;
+    align-self: center;
+    width: 32px;
+    margin-right: 24px;
+}
+
+.cart__price {
+    margin-left: 8px;
+    font-weight: $semi-bold;
+}

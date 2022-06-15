@@ -1,0 +1,26 @@
+@import "./vars";
+
+.cart__container {
+    width: 25vw;
+    height: 100%;
+    top: 0;
+    right: 0;
+    padding: 36px 48px;
+    position: absolute;
+    background-color: $bg-color-2;
+}
+
+.cart__title {
+    margin: 48px 2px;
+}
+
+.cart__total {
+    display: flex;
+    margin-bottom: 24px;
+    padding: 24px 8px;
+    justify-content: space-between;
+    border-radius: 8px;
+    background-color: $border-color-1;
+    font-weight: $semi-bold;
+}
+

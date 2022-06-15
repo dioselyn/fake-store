@@ -1,0 +1,11 @@
+@import "./vars";
+
+.product-detail__container {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    padding: 60px;
+    position: relative;
+    border-radius: 16px;
+    background-color: $bg-color-2;
+}
+
